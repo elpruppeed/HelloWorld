@@ -4,7 +4,7 @@
 # In[1]:
 
 
-a= 'Hello World, dehey dehey dehey'
+a= 'Hello World Hello'
 print(a)
 
 
